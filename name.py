@@ -1,5 +1,4 @@
 import os
-
 class name:
 
 	def __init__(self, firstname, lastname):
