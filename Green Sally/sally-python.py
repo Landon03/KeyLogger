@@ -11,6 +11,5 @@ sallydown = 'green sally down'
 for i in range(1000000000000000):
 	print(sallyup)
 	t.sleep(5)
-	os.system("cls")
 	print(sallydown)
 
